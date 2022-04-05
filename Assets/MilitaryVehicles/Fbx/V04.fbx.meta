@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 5c26f0fb113afab43a1bc262b0cb2409
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: V04 [Body]
+    100004: V04 [wheel1]
+    100006: V04 [wheel2]
+    100008: V04 [wheels1]
+    100010: V04 [wheels2]
+    100012: Camera
+    100014: Light
+    100016: V04:Body
+    100018: V04:wheel1
+    100020: V04:wheel2
+    100022: V04:wheels1
+    100024: V04:wheels2
+    400000: //RootNode
+    400002: V04 [Body]
+    400004: V04 [wheel1]
+    400006: V04 [wheel2]
+    400008: V04 [wheels1]
+    400010: V04 [wheels2]
+    400012: Camera
+    400014: Light
+    400016: V04:Body
+    400018: V04:wheel1
+    400020: V04:wheel2
+    400022: V04:wheels1
+    400024: V04:wheels2
+    2300000: V04 [Body]
+    2300002: V04 [wheel1]
+    2300004: V04 [wheel2]
+    2300006: V04 [wheels1]
+    2300008: V04 [wheels2]
+    2300010: V04:Body
+    2300012: V04:wheel1
+    2300014: V04:wheel2
+    2300016: V04:wheels1
+    2300018: V04:wheels2
+    3300000: V04 [Body]
+    3300002: V04 [wheel1]
+    3300004: V04 [wheel2]
+    3300006: V04 [wheels1]
+    3300008: V04 [wheels2]
+    3300010: V04:Body
+    3300012: V04:wheel1
+    3300014: V04:wheel2
+    3300016: V04:wheels1
+    3300018: V04:wheels2
+    4300000: V04 [Body]
+    4300002: V04 [wheel1]
+    4300004: V04 [wheels1]
+    4300006: V04 [wheels2]
+    4300008: V04 [wheel2]
+    4300010: V04:Body
+    4300012: V04:wheel1
+    4300014: V04:wheels1
+    4300016: V04:wheels2
+    4300018: V04:wheel2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
